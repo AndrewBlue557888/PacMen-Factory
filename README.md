@@ -6,6 +6,7 @@ how to run code:
 3. select "Download ZIP"
 4. right click ZIP file and choose to extract the ZIP (name of option may vary depending on software used to extract)
 5. open the "Index.html" file with your browser (tested with google chrome, if it doesn't work with your default, try using chrome)
+
 IMPORTANT: do not separate the items from their folders AS IS, as the HTML file uses the Javascript file, and the Javascript relies on the images being in their shared "images" folder!
 
 possible future improvements: 
