@@ -11,5 +11,6 @@ IMPORTANT: do not separate the items from their folders AS IS, as the HTML file 
 possible future improvements: 
 1. fix issue where if a PacMan spawns on the start button before the PacMen start moving, you can't click the button behind the PacMan (unless there is a large enough opening)
 2. add button to slow/stop PacMen moving (similar to the start/speed up button)
-3. separate "start" and "speed up" buttons (or have text on button update accordingly)
-4. do the same for "slow" and "stop" buttons (same alternative)
+3. add button to remove/clear PacMen
+4. separate "start" and "speed up" buttons (or have text on button update accordingly)
+5. do the same for "slow" and "stop" buttons (same alternative) 
